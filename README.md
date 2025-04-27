@@ -21,6 +21,8 @@ Web scraping or web harvesting is a technique of extracting data from websites. 
 - Extracting all the top 50 unicorn companies and their details.
 - Saving the extracted data in a dataframe and exporting it to a CSV file.
 ## Analysing the dataset.
-- 
+- Group by 'Industry' and count no of companies in each industry. Six major unicorn companies focuses on E-commerce industry followed by 5 on Finance Technology.
+- Plotting a bar graph of the top 10 companies by 'valuation in US$ $ billions'. SpaceX has the highest valuation of 350 US$ billion and Epic Games has the lowest of 31.5 US$ billion.
+- Identifying companies with more than one founder.
 
 
