@@ -14,15 +14,13 @@ Web scraping or web harvesting is a technique of extracting data from websites. 
 - Parsing the HTML content using BeautifulSoup.
 - Extracting all 50 author names and the book ratings.
 - Saving the extracted data in a dataframe and exporting it to a CSV file.
-# Scraping the Wikipedia web page of the top 50 unicorn companies, their names, the founder's name, valuation, and industry.
+# Scraping the Wikipedia web page of the top 50 unicorn companies, their names, the founder's name, valuation, and industry
 - Importing necessary packages(requests, BeautifulSoup, Pandas)
 - Sending HTTP requests to get access to the HTML content of the web page to be scraped, and also checking the robots.txt file.
 - Parsing the HTML content using BeautifulSoup.
 - Extracting all the top 50 unicorn companies and their details.
 - Saving the extracted data in a dataframe and exporting it to a CSV file.
-## Analysing the dataset.
+## Analysing the dataset
 - Group by 'Industry' and count no of companies in each industry. Six major unicorn companies focuses on E-commerce industry followed by 5 on Finance Technology.
 - Plotting a bar graph of the top 10 companies by 'valuation in US$ $ billions'. SpaceX has the highest valuation of 350 US$ billion and Epic Games has the lowest of 31.5 US$ billion.
 - Identifying companies with more than one founder.
-
-
